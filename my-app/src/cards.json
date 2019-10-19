@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "dog1",
+        "image":"/images/1.jpeg",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "dog2",
+        "image": "../images/2.jpeg",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "dog3",
+        "image": "../images/3.jpeg",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "dog4",
+        "image": "../images/4.jpeg",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "dog5",
+        "image": "../images/5.jpeg",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "dog6",
+        "image": "../images/6.jpeg",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "dog7",
+        "image": "../images/7.jpeg",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "dog8",
+        "image": "../images/8.jpeg",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "dog9",
+        "image": "../images/9.jpeg",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "dog10",
+        "image": "../images/10.jpeg",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "dog11",
+        "image": "../images/11.jpeg",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "name": "dog12",
+        "image": "../images/12.jpeg",
+        "count": 0
+    }
+    
+]
